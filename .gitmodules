@@ -1,0 +1,3 @@
+[submodule "theme/blue-penguin"]
+	path = theme/blue-penguin
+	url = git@github.com:mthpower/blue-penguin.git

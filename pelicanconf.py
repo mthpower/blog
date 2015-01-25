@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+import os
+
 AUTHOR = u'Matthew Power'
 SITENAME = u'test'
 SITEURL = ''
@@ -32,4 +34,7 @@ SOCIAL = (('You can add links in your config file', '#'),
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+# RELATIVE_URLS = True
+
+# Theme
+THEME = os.path.join(os.path.dirname(__file__), 'themes/blue-penguin')
