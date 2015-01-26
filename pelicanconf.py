@@ -37,4 +37,4 @@ DEFAULT_PAGINATION = 10
 # RELATIVE_URLS = True
 
 # Theme
-THEME = os.path.join(os.path.dirname(__file__), 'themes/blue-penguin')
+THEME = os.path.join(os.path.dirname(__file__), 'theme/blue-penguin')

@@ -1,13 +1,13 @@
+============
 Hello World!
-############
+============
 
 :date: 2015-01-06 18:30
-:modified: 2015-01-06 18:30
-:tags:
-:category:
+:tags: blog, hello, world
+:category: Blogging, Mentoring
 :slug: hello-world
 :authors: Matthew Power
-:summary:
+:summary: A little about why I'm writing this blog.
 
 So I've decided to start writing a blog. As with all beginnings, sometimes simply getting started is hard. This post, unimaginatively titled “Hello World!”, is that tricky start, so please excuse the lack of any originality.
 
@@ -15,9 +15,9 @@ First, I must make a confession, this wasn't even my idea! In the autumn of last
 
 After some discussion with my mentor, Chris, about my motivations we used a simple “five whys” exercise. From Chris' perspective, it helped him really understand the reasoning behind my goals, and from my perspective, it helped me justify my intuition of what I wanted. It's surprising how challenging the exercise can be by the fourth or fifth “why?”
 
-After that, and based on our talk, he suggested that I start a blog.
+Based on our talk, he suggested that I start a blog.
 
-Day to day, I work with mainly with Python and Django, and while a great deal of what I'm interested in and want to learn about can be achieved in my regular 9-6, not all of it can.
+Day to day, I work with mainly with Python and Django, and while a great deal of what I'm interested in and want to learn fits into my regular 9-6, not all of it can.
 
 This blog is not for just the things that don't fit in my job, but as a way of me recording everything that I'm messing around with. A great deal of learning is achieved by hacking away yourself, but one aspect of learning can be trying to teach others, even through the very indirect means of writing a blog.
 
