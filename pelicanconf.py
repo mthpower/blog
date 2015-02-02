@@ -5,8 +5,8 @@ from __future__ import unicode_literals
 import os
 
 AUTHOR = u'Matthew Power'
-SITENAME = u'test'
-SITEURL = ''
+SITENAME = u'Web Dev Experiments'
+SITEURL = 'http://mthpower.uk:8000'
 
 PATH = 'content'
 
@@ -38,3 +38,6 @@ DEFAULT_PAGINATION = 10
 
 # Theme
 THEME = os.path.join(os.path.dirname(__file__), 'theme/blue-penguin')
+
+# Static
+STATIC_PATHS = ['img']
