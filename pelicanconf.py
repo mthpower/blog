@@ -6,7 +6,7 @@ import os
 
 AUTHOR = u'Matthew Power'
 SITENAME = u'Web Dev Experiments'
-SITEURL = 'http://mthpower.uk:8000'
+SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
 
