@@ -1,13 +1,10 @@
-====================
-Hosting on Amazon S3
-====================
-
-:date: 2015-02-06 21:00
-:tags: amazon, S3, route 53
-:category: Web Dev
-:slug: hosting-on-amazon-s3
-:authors: Matthew Power
-:summary: How I hosted this blog on Amazon S3.
+Title: Hosting on Amazon S3
+Date: 2015-02-06 21:00
+Tags: amazon, S3, route 53
+Category: Web Dev
+Slug: hosting-on-amazon-s3
+Authors: Matthew Power
+Summary: How I hosted this blog on Amazon S3.
 
 Amazon has an excellent guide for hosting a static website on S3. It covers the whole process from setting up the buckets and uploading files, setting up DNS rules to redirect visitors to the buckets and setting up a CDN using Cloudfront. I didn't go as far as setting up a CDN, but it's reassuring to know the option is there, and isn't much added effort beyond what I've already done.
 

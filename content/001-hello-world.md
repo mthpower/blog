@@ -1,13 +1,10 @@
-============
-Hello World!
-============
-
-:date: 2015-01-06 18:30
-:tags: hello, world
-:category: Blogging, Mentoring
-:slug: hello-world
-:authors: Matthew Power
-:summary: A little about why I'm writing this blog.
+Title: Hello World!
+Date: 2015-01-06 18:30
+Tags: hello, world
+Category: Blogging, Mentoring
+Slug: hello-world
+Authors: Matthew Power
+Summary: A little about why I'm writing this blog.
 
 So I've decided to start writing a blog. As with all beginnings, sometimes simply getting started is hard. This post, unimaginatively titled “Hello World!”, is that tricky start, so please excuse the lack of any originality.
 
