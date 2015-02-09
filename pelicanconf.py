@@ -5,7 +5,8 @@ from __future__ import unicode_literals
 import os
 
 AUTHOR = u'Matthew Power'
-SITENAME = u'Web Dev Experiments'
+SITENAME = u'Matthew'
+SITESUBTITLE = u'Python and other experiments'
 SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
