@@ -14,7 +14,7 @@ I wanted to change the fonts in the theme, so looked on [Google Fonts](https://w
 
 I think grids can be a double-edged sword. Inless you are very diligent in how you structure your markup, it's easy to add unneccesary `<divs>` and classes. They add a lot of utility but can work against you if you are trying to make the markup semantic. Ideally, I should me able to swap out the CSS, and the markup would not need touching.
 
-Pelican requires some work after you generate the blog to make pretty URLS. To avoid all my URLs looking like ending with `.html`, I needed to change all the `_URL` and _`SAVE_AS` settings in my `pelicanconf.py`:
+Pelican requires some config to generate pretty URLs. To avoid all my URLs ending with `.html`, I needed to change some `_URL` and `_SAVE_AS` settings in my `pelicanconf.py` like so:
 
 ```python
 # Pretty URLs
@@ -26,5 +26,6 @@ CATEGORY_URL = 'category/{slug}'
 CATEGORY_SAVE_AS = 'category/{slug}.html'
 TAG_URL = 'tag/{slug}'
 TAG_SAVE_AS = 'tag/{slug}.html'
+ARCHIVES_SAVE_AS = 'archives/index.html'
 ```
-You can look at the source for both the blog and the theme on my Github.
+You can look at the source for both the [blog](https://github.com/mthpower/blog) and the [theme](https://github.com/mthpower/blue-penguin) on my Github.

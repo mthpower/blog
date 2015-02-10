@@ -1,7 +1,7 @@
 Title: Hello World!
 Date: 2015-01-06 18:30
 Tags: hello, world
-Category: Blogging, Mentoring
+Category: Mentoring
 Slug: hello-world
 Authors: Matthew Power
 Summary: A little about why I'm writing this blog.
