@@ -14,4 +14,4 @@ Currently working at [Hogarth](http://www.hogarthww.com/), in Soho.
 Contact Details
 ---------------
 
-[Email](mailto:mth.power@gmail.com) | [Twitter](https://twitter.com/mthpower) | m: 07962 885377
+[Email](mailto:mth.power@gmail.com) | [Github](https://github.com/mthpower) | [Twitter](https://twitter.com/mthpower) | m: +44 (0) 7962 885377
