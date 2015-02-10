@@ -15,6 +15,19 @@ TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = u'en'
 
+RELATIVE_URLS = False
+
+# Pretty URLs
+ARTICLE_URL = 'article/{slug}'
+ARTICLE_SAVE_AS = 'article/{slug}/index.html'
+PAGE_URL = 'page/{slug}'
+PAGE_SAVE_AS = 'page/{slug}/index.html'
+CATEGORY_URL = 'category/{slug}'
+CATEGORY_SAVE_AS = 'category/{slug}/index.html'
+TAG_URL = 'tag/{slug}'
+TAG_SAVE_AS = 'tag/{slug}/index.html'
+ARCHIVES_SAVE_AS = 'archives/index.html'
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
