@@ -54,4 +54,4 @@ DEFAULT_PAGINATION = 10
 THEME = os.path.join(os.path.dirname(__file__), 'theme/blue-penguin')
 
 # Static
-STATIC_PATHS = ['img']
+STATIC_PATHS = ['img', 'pdf']
