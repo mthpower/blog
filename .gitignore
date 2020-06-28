@@ -57,3 +57,5 @@ target/
 *.pid
 cache/
 output/
+
+.venv/
